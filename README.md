@@ -1,16 +1,27 @@
-## Hi there 👋
+# Awuonda Rubby
 
-<!--
-**awuondarubby/awuondarubby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Business Analytics student at the University of South Dakota with experience in data analytics, forecasting, statistical modeling, and business intelligence.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* R
+* Python
+* SAS
+* SQL
+* Tableau
+* Power BI
+* Forecasting
+* Data Visualization
+* Statistical Analysis
+
+## Featured Projects
+
+* NFL Fourth Down Decision Analysis using SAS logistic regression
+* Bank Deposit Time Series Forecasting using ARIMA and ETS models
+* Real Estate Data Analysis in R and Python
+* Database Design and Analytics Projects
+
+## Interests
+
+Business Analytics • Forecasting • AI Applications • Data Science • Business Intelligence
+
